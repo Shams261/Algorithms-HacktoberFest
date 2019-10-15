@@ -152,3 +152,8 @@ Reminders:
 # Collatz conjecture - Total stopping time
 
 - Thie algorithm calculates the total stopping time of the collatz conjecture
+
+# Insertion Sort
+  
+  Insertion sort is a simple and efficient comparision sort. In this algorithm ,each iteration removes an element from the   
+  input data and inserts it into the correct position in the list being sorted.  
